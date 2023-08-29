@@ -1,0 +1,7 @@
+algorithm = FURIA
+inputData = "/Users/yangyangxue/文档/论文/BRBDT/Application/BRB/datasets/iris/iris-10-9tra.dat" "/Users/yangyangxue/文档/论文/BRBDT/Application/BRB/datasets/iris/iris-10-9tra.dat" "/Users/yangyangxue/文档/论文/BRBDT/Application/BRB/datasets/iris/iris-10-9tst.dat" 
+outputData = "/Users/yangyangxue/Downloads/result0s0.tra" "/Users/yangyangxue/Downloads/result0s0.tst" "/Users/yangyangxue/Downloads/result0s0e0.txt"  
+
+seed = 1286082570
+Number of Optimizations = 2
+Number of folds = 3
